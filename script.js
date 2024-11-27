@@ -4,5 +4,5 @@ document.getElementById("button").addEventListener('click', () => {
         alert("Name cannot be more than 25 characters");
         return;
     }
-    alert("You have successfully registered");
+    alert("You have successfully registered and Thank you");
 });
